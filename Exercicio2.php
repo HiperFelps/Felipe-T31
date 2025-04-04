@@ -7,23 +7,29 @@
 </head>
 <body>
     <form action="pagina_protegida.php" method="post">
-
-    <h1>Insira seus dados</h1>
-
-    <input type="text" name="user" size="50" placeholder="Usuário"><br><br>
-    <input type="password" name="senha" placeholder="Senha"><br><br>
-
-    <input type="submit" name="botao" value="Entrar">
-
+        <h2>Login</h2>
+        <input type="text" id="username" name="username" placeholder="Username" required>
+        <br>
+        <input type="password" id="senha" name="senha" placeholder="Senha" required>
+        <br>
+        <button type="submit" name="botao">Enviar</button>
     </form>
-    <?php
 
-    $user = $_POST["user"];
-    $senha = $_POST["senha"];
-    
+    <style>
+        body {
+            text-align: center;
+            font-size: 25px;
+            font-family: Arial, sans-serif;
+        }
+        #username {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+        #senha {
+            font-size: 20px;
+            margin-bottom: 20px;
 
-
-
-    ?>    
+        }
+    </style>
 </body>
 </html>
