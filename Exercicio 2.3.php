@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Adicionar Convidados</h1>
-    <form action="index3.php" method="post">
+    <form action="Exercicio 2.3.php" method="post">
         <label>Insira o nome dos seus convidados</label><br>
         <input type="text" size="80" name="nome"><br><br>
         <input type="submit" name="adicionar" value="Adicionar"><br><br>
