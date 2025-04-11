@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<form method="post" action="index.php"><h1>Insira seus dados abaixo</h1><br>
+<form method="post" action="Exercicio1.php"><h1>Insira seus dados abaixo</h1><br>
 
 <input type="text" name="nome" size="80" placeholder="Nome completo"> <br><br>
 <input type="text" name="endereco" placeholder="Endereço"> <br><br>
