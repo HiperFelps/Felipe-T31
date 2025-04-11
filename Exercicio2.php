@@ -6,7 +6,7 @@
     <title>Exercício 2</title>
 </head>
 <body>
-    <form action="pagina_protegida.php" method="post">
+    <form action="pagina_protegida_Ex2.php" method="post">
         <h2>Login</h2>
         <input type="text" id="username" name="username" placeholder="Username" required>
         <br>
