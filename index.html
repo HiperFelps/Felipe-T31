@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício de JavaScript</title>
+</head>
+<body>
+
+    <p id="texto">Texto original.</p>
+    <button onclick="muda()">Trocar texto</button><br><br><br>
+
+    <button onclick="bemvindo()">Clique aqui!</button><br><br><br>
+
+    <button onclick="branco()">Branco</button><br><br>
+    <button onclick="azul()">Azul</button><br><br>
+    <button onclick="verde()">Verde</button><br><br>
+    <button onclick="vermelho()">Vermelho</button><br><br>
+
+    <!-- <button onclick="epilepsy()">Cuidado</button> -->
+
+
+    <script>
+        function muda(){
+            document.getElementById("texto").innerHTML="Texto trocado sem volta. &#128516"
+        }
+
+        function bemvindo(){
+            alert("Seja Bem-Vindo ao site! 👍")
+        }
+
+
+        function branco(){
+            document.body.style.backgroundColor="white"
+        }
+        function azul(){
+            document.body.style.backgroundColor="blue"
+        }
+
+        function verde(){
+            document.body.style.backgroundColor="green"
+        }
+
+        function vermelho(){
+            document.body.style.backgroundColor="red"
+        }
+
+        //Tenativa de fazer bagunça q não deu certo :(
+        //function epilepsy(){
+        //    for(i=0;i<=18;i++){
+        //        if(i % 3 == 1){
+        //        document.body.style.backgroundColor="blue"
+        //    }else if(i % 3 == 2){
+        //        document.body.style.backgroundColor="green"
+        //    }else if(i % 3 == 0){
+        //        document.body.style.backgroundColor="red"
+        //    }
+        //}
+        //}
+
+
+    </script>
+
+    <style>
+        body{
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            margin-left: 100px;
+            margin-top: 50px;
+        }
+    </style>
+</body>
+</html>
