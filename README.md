@@ -7,3 +7,6 @@ Senha: 1234
 ou
 Username: aluno
 Senha: 1234
+
+Tenho q lembrar de editar o documento com:
+echo $linha['nome'] . " | " . $linha['endereco'] . " | " . $linha['telefone'] . "   <a href='edita.php?id=" . $linha["id"] . "'>Editar</a>    <a href='exclui.php?id=" . $linha["id"] . "'>Excluir</a><br>";
