@@ -27,8 +27,8 @@
     if (mysqli_num_rows($resultado) > 0) {
         while ($linha = mysqli_fetch_assoc($resultado)) {
             echo $linha['nome'] . " | " . $linha['endereco'] . " | " . $linha['telefone'] .
-            "   <a href='edita.php?id=" . $linha["id"] . "'>Editar</a>    
-            <a href='exclui.php?id=" . $linha["id"] . "'>  Excluir</a><br>";
+            "   <a href='editar.php?id=" . $linha["id"] . "'>Editar</a>    
+            <a href='excluir.php?id=" . $linha["id"] . "'>  Excluir</a><br>";
         }
     } else {
         echo "Nenhum contato encontrado.";
