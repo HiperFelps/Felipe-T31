@@ -1,17 +1,22 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda</title>
+</head>
 <body>
-    <h2>Cadastrar Contato</h2>
-
-    <form method="post" action="salvar.php">
-
-        Nome: <input type="text" name="nome" required><br><br>
-        Endereço: <input type="text" name="endereco" required><br><br>
-        Telefone: <input type="text" name="telefone" required><br><br>
-        <input type="submit" value="Salvar">
+    <h1>Cadastrar contato</h1>
+    <form action="salvar.php" method="post">
+        <label for="nome">Nome: </label><br>
+        <input type="text" id="nome" name="nome" required><br><br>
+        <label for="endereco">Endereço: </label><br>
+        <input type="text" id="endereco" name="endereco" required><br><br>
+        <label for="telefone">Telefone: </label><br>
+        <input type="text" name="telefone" id="telefone" max-lenght="11" required><br><br>
+        <input type="submit" value="Submit"><br><br>
     </form>
 
-    <h2>Lista de Contatos</h2>
     <?php
     include('conexao.php');
 
@@ -22,13 +27,13 @@
     if (mysqli_num_rows($resultado) > 0) {
         while ($linha = mysqli_fetch_assoc($resultado)) {
             echo $linha['nome'] . " | " . $linha['endereco'] . " | " . $linha['telefone'] .
-                " | <a href='editar.php?id=" . $linha["id"] . "'>Editar</a>" .
-                " | <a href='excluir.php?id=" . $linha["id"] . "'>Excluir</a> <br>";
+            "   <a href='edita.php?id=" . $linha["id"] . "'>Editar</a>    
+            <a href='exclui.php?id=" . $linha["id"] . "'>  Excluir</a><br>";
         }
     } else {
         echo "Nenhum contato encontrado.";
     }
     ?>
+    
 </body>
-
 </html>
