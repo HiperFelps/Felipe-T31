@@ -1,3 +1,4 @@
+
 <?php
 include('conexao.php');
 
@@ -53,7 +54,7 @@ if(isset($_POST['atualizar'])){
         <label for="endereco" class="labels">Endereço: </label><br>
         <input type="text" name="endereco" value="<?php echo $contato['endereco'];?>" required><br><br>
         <label for="telefone" class="labels">Telefone: </label><br>
-        <input type="text" name="telefone" value="<?php echo $contato['telefone'];?>" required><br><br>
+        <input type="text" name="telefone" id="telefone" value="<?php echo $contato['telefone'];?>" required><br><br>
         <input type="submit" name="atualizar" value="atualizar" id="button"><br><br>
         
         </form>
@@ -77,6 +78,7 @@ if(isset($_POST['atualizar'])){
                 margin-bottom: 20px;
                 margin-left: 41%;
                 margin-right: 41%;
+                text-align: center;
             }
             #button {
                 background-color: #007BFF;
@@ -105,5 +107,16 @@ if(isset($_POST['atualizar'])){
                 font-size: 16px;
             }
         </style>
+        <script>
+        const telefoneInput = document.getElementById('telefone');
+        telefoneInput.addEventListener('input', function(e) {
+            let value = e.target.value.replace(/\D/g, '');
+            if (value.length > 11) value = value.slice(0, 11);
+            if (value.length > 0) value = '(' + value;
+            if (value.length > 3) value = value.slice(0, 3) + ') ' + value.slice(3);
+            if (value.length > 10) value = value.slice(0, 10) + '-' + value.slice(10);
+            e.target.value = value;
+        });
+    </script>
 </body>
 </html>
