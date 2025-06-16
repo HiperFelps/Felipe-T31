@@ -68,11 +68,14 @@
             <li>Grande área: Engenharias / Área: Engenharia Elétrica / Subárea: Energias Renováveis.</li>
             <li><h2 class="titulo">Produções</h2></li>
             <li><h2 class="subtitulo">Apresentações de Trabalho</h2></li>
-            <li>ANDRADE, T. B. ; PARIZI, R. B. ; CRUZ, A. S. ; OLIVIERA, F. L. ; SANTOS, A. L. ; Deus, Cesar Augusto de . Tecnologia Livre para Produção e controle de Energia Eólica. 2016. (Apresentação de Trabalho/Seminário).</li>
-            <li>MENDES, N. G. ; OLIVIERA, F. L. ; MENUZZI, O. J. ; WALKER, E. ; Deus, Cesar A. . LPS: Sistema de posicionamento local para o Instituto Federal Farroupilha Campus São Borja. 2016. (Apresentação de Trabalho/Simpósio).</li>
+            <li>ANDRADE, T. B. ; PARIZI, R. B. ; CRUZ, A. S. ; OLIVIERA, F. L. ; SANTOS, A. L. ; Deus, Cesar Augusto de . Tecnologia Livre para Produção e controle de Energia Eólica. 2016. 
+                (Apresentação de Trabalho/Seminário).</li>
+            <li>MENDES, N. G. ; OLIVIERA, F. L. ; MENUZZI, O. J. ; WALKER, E. ; Deus, Cesar A. . LPS: Sistema de posicionamento local para o Instituto Federal Farroupilha Campus São Borja. 2016. 
+                (Apresentação de Trabalho/Simpósio).</li>
             <li>Deus, Cesar A.. Tecnologias na Educação - Utilizando lousas digitais na sala de aula. 2016. (Apresentação de Trabalho/Conferência ou palestra).</li>
             <li>Deus, Cesar A.. Tecnologias na Educação do Hardware e Software - Utilizando lousas digitias na sala de aula. 2016. (Apresentação de Trabalho/Conferência ou palestra).</li>
-            <li>MENDES, N. G. ; OLIVIERA, F. L. ; MENUZZI, O. J. ; WALKER, E. ; Deus, Cesar A. . LPS: Sistema de posicionamento local para o Instituto Federal Farroupilha Campus São Borja. 2016. (Apresentação de Trabalho/Seminário).</li>
+            <li>MENDES, N. G. ; OLIVIERA, F. L. ; MENUZZI, O. J. ; WALKER, E. ; Deus, Cesar A. . LPS: Sistema de posicionamento local para o Instituto Federal Farroupilha Campus São Borja. 2016. 
+                (Apresentação de Trabalho/Seminário).</li>
             <li>Deus, Cesar A.; MACHADO, M. C. . Tecnologias de Informação na Prática Docentes e T.I na Prática. 2014. (Apresentação de Trabalho/Seminário).</li>
             <li>Deus, Cesar A.. Informática na Educação. 2013. (Apresentação de Trabalho/Conferência ou palestra).</li>
             <li>Deus, Cesar A.. Pesquisa sobre a utilização do som na comunicação entre computadores. 2011. (Apresentação de Trabalho/Outra).</li>
@@ -91,9 +94,11 @@
             <li>7.Seminário de Integração do PDI do Ifet- Farroupilha. 2013. (Seminário).</li>
             <li>8.VIII Semana Acadêmica do Curso de Ciência da Computação.Pesquisa sobre a utilização do som na comunicação entre computadores. 2011. (Seminário).</li>
             <li>9.Computer on the Beach 2010. 2010. (Seminário).</li>
-            <li>Orientações</li>
-            <li>1.Vinícius Poertella Contreira. sac - Sistema de Agendamento de Consultas. 2015. Orientação de outra natureza - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha. Orientador: Cesar Augusto de Deus.</li>
-            <li>2.Lucas de Quadros Alves. AdminDOC - Administração de Documentos para Escritórios de Contabilidade. 2015. Orientação de outra natureza - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha. Orientador: Cesar Augusto de Deus.</li>
+            <li><h2 class="titulo">Orientações</h2></li>
+            <li>1.Vinícius Poertella Contreira. sac - Sistema de Agendamento de Consultas. 2015. Orientação de outra natureza - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha. Orientador: 
+                Cesar Augusto de Deus.</li>
+            <li>2.Lucas de Quadros Alves. AdminDOC - Administração de Documentos para Escritórios de Contabilidade. 2015. Orientação de outra natureza - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha. 
+                Orientador: Cesar Augusto de Deus.</li>
             <li>3.Gabriel Lamas Silvs. Website Tarran. 2015. Orientação de outra natureza - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha. Orientador: Cesar Augusto de Deus.</li>
             <li>4.Tássia Limana da Silveira. Estágio Curricular Supervisionado do Técnico em Informática. 2014. Orientação de outra natureza - Instituto Federal Farroupilha. Orientador: Cesar Augusto de Deus.</li>
             <li>5.Ariane Gomes Tamiozzo. Estágio Curricular Supervisionado Técnico em Informatica. 2014. Orientação de outra natureza - Instituto Federal Farroupilha. Orientador: Cesar Augusto de Deus.</li>
@@ -103,12 +108,37 @@
             <li>9.Bianca Angonese Pasquoto. Estágio Curricular Supervisionado Técnico em Informática. 2014. Orientação de outra natureza - Instituto Federal Farroupilha. Orientador: Cesar Augusto de Deus.</li>
             <li>10.Catriel Brum Denardi. Estágio Curricular Supervisionado Técnico em Informática. 2014. Orientação de outra natureza - Instituto Federal Farroupilha. Orientador: Cesar Augusto de Deus.</li>
             <li>11.Vanusa Fabich. Estágio Curricular Supervisionado Técnico em Informática. 2014. Orientação de outra natureza - Instituto Federal Farroupilha. Orientador: Cesar Augusto de Deus.</li>
-            <li>Outras informações relevantes</li>
-            <li>Coordenador dos cursos do Eixo de Informação e Comunicação do Instituto Federal de Educação, Ciência e Tecnologia Farroupilha (IFFar) - Campus São Borja (2016/2018) -Mestrando no programa de Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT) ofertado pelo Campus Jaguari, do Instituto Federal de Educação Ciência e Tecnologia Farroupilha (IFFAR) turma 2021.</li>
-        </ul>
-
+            <li><h2 class="titulo">Outras informações relevantes</h2></li>
+            <li>Coordenador dos cursos do Eixo de Informação e Comunicação do Instituto Federal de Educação, Ciência e Tecnologia Farroupilha (IFFar) - Campus São Borja (2016/2018)
+                -Mestrando no programa de Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT) ofertado pelo Campus Jaguari, do Instituto Federal de Educação Ciência
+                e Tecnologia Farroupilha (IFFAR) turma 2021.</li>
         </ul>
     </div>
+    <footer class="page-footer">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Footer Content</h5>
+                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Links</h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2025 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            </div>
+          </div>
+        </footer>
     
 </body>
 </html>
