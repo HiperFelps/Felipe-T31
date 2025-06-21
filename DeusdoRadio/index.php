@@ -27,7 +27,8 @@
     <div class="texto">
         <ul>
             <li><h2 class="titulo">Identificação</h2></li>
-            <li>Nome: Cesár Augusto de Deus</li>
+            <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmotzj14JKVkNqU2GEYLPQtSckl6nPHcL4A&s" alt="Foto de Cesar Augusto de Deus" class="foto"></li>
+            <li>Nome: Cesar Augusto de Deus</li>
             <li>Nome em citações bibliográficas: Deus, Cesar Augusto de Deus, Cesar A.</li>
             <li>Lattes iD: <a href="http://lattes.cnpq.br/3919297635615017">http://lattes.cnpq.br/3919297635615017</a></li>
             <li>País de Nacionalidade: Brasil</li>
@@ -118,13 +119,13 @@
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
-                <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                <h5 class="white-text">Conclusão</h5>
+                <p class="grey-text text-lighten-4">Este é Cesar de Deus profissionalmente, gostou? Visite esses links.</p>
               </div>
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+                  <li><a class="grey-text text-lighten-3" href="http://lattes.cnpq.br/3919297635615017">Currículo Lattes</a></li>
                   <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
                   <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
                   <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
